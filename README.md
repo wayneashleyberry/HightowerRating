@@ -30,3 +30,9 @@ Super Dope: ![SuperDopeBadge](https://img.shields.io/badge/Hightower-super%20dop
 > URL: https://img.shields.io/badge/Hightower-super%20dope-b9f2ff.svg
 
 - Description
+
+Ultra Dope: ![UltraDopeBadge](https://img.shields.io/badge/Hightower-ultra%20dope✨-b9f2ff.svg)
+
+> URL: https://img.shields.io/badge/Hightower-ultra%20dope✨-b9f2ff.svg
+
+- Description
